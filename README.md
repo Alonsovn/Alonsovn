@@ -35,15 +35,6 @@ Explore more: [EndToEndLabCR GitHub Organization](https://github.com/EndToEndLab
 
 ---
 
-## 🚀 Featured Projects
-
-- [FastAPI Template](https://github.com/EndToEndLabCR/template-api-python) – A reusable FastAPI template aimed at quick project initialization.
-- [POC Ingestion with Java](https://github.com/NaranjoSolutions/poc-ingestion-java) – A proof-of-concept project for robust data ingestion pipelines.
-- [ETL with Python](https://github.com/NaranjoSolutions/sample-etl-python) – Python scripts for efficient data extraction, transformation, and loading.
-- [Orthopedic Spine API](https://github.com/NaranjoSolutions/orthspine-api-fastapi) – A FastAPI-based healthcare application for managing orthopedic data.
-
----
-
 ## 💻 Programming Languages
 
 <table cellspacing="0" cellpadding="0">
@@ -119,7 +110,7 @@ Explore more: [EndToEndLabCR GitHub Organization](https://github.com/EndToEndLab
       <sub><b>VS Code</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/66ea105b-d29f-413a-a267-36c3629b311c" width="60" alt="Postman"><br>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"><br>
       <sub><b>Postman</b></sub>
     </td>
     <td align="center">
@@ -127,7 +118,7 @@ Explore more: [EndToEndLabCR GitHub Organization](https://github.com/EndToEndLab
       <sub><b>Terraform</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="60" height="60" alt="AWS"/><br>
       <sub><b>AWS</b></sub>
     </td>
   </tr>
@@ -168,7 +159,7 @@ Explore more: [EndToEndLabCR GitHub Organization](https://github.com/EndToEndLab
 
 Want to collaborate or discuss a project? Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alonso-villanueva-naranjo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alonso-villanueva-naranjo-739341144)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alonsonh94@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alonsovn)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50689599092)
